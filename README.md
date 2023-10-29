@@ -3,13 +3,16 @@ Software Engineer at Ford
 
 ### Skills
 
-![Java](https://img.shields.io/static/v1?label=&message=Java&color=2bbc8a)
 ![Android](https://img.shields.io/static/v1?label=&message=Android&color=2bbc8a)
 ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=2bbc8a)
+![Java](https://img.shields.io/static/v1?label=&message=Java&color=2bbc8a)
 ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=2bbc8a)
-![Jetpacks](https://img.shields.io/static/v1?label=&message=Jetpacks&color=2bbc8a)
+![Jetpack Compose](https://img.shields.io/static/v1?label=&message=JetpackCompose&color=2bbc8a)
+![Compose Navigation](https://img.shields.io/static/v1?label=&message=ComposeNavigation&color=2bbc8a)
+![Hilt](https://img.shields.io/static/v1?label=&message=Hilt&color=2bbc8a)
 ![Dagger](https://img.shields.io/static/v1?label=&message=Dagger&color=2bbc8a)
 ![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=2bbc8a)
+![Coroutines](https://img.shields.io/static/v1?label=&message=Coroutines&color=2bbc8a)
 ![Data Structures](https://img.shields.io/static/v1?label=&message=DataStructures&color=2bbc8a)
 ![Algorithms](https://img.shields.io/static/v1?label=&message=Algorithms&color=2bbc8a)
 
